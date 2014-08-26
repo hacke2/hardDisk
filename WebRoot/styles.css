@@ -1,0 +1,6 @@
+A:HOVER{color:red}	/*鼠标移动到超链接出字体变红*/
+body
+  { 
+  background-image: url(images/background.jpg);	/*设置背景*/
+
+  }
